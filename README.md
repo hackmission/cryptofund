@@ -1,2 +1,2 @@
 # cryptofund
-Offline app for mananing a crypto fund
+Offline app for managing a crypto fund on Rehive Platform using a CSV file.
